@@ -1,0 +1,9 @@
+backend/.venv/
+backend/.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+.env
+generated/jobs/*
+!generated/jobs/.gitkeep
+*.pyc
+__pycache__/
